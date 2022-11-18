@@ -13,27 +13,27 @@ const Categories = () => {
       showsHorizontalScrollIndicator={false}
     >
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-1'
       ></CategoryCard>
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-2'
       ></CategoryCard>
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-3'
       ></CategoryCard>
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-3'
       ></CategoryCard>
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-3'
       ></CategoryCard>
       <CategoryCard
-        imgUrl='https://links.papareact.com/gn7'
+        imgUrl='https://w0.peakpx.com/wallpaper/908/450/HD-wallpaper-sushi-philadelphia-rolls-japanese-food.jpg'
         title='testing-3'
       ></CategoryCard>
     </ScrollView>

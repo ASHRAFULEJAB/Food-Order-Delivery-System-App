@@ -21,7 +21,7 @@ const FeaturedRow = ({ title, description, id }) => {
         {/* Resturants card... */}
         <ResturantCard
           id={123}
-          imgUrl='https://links.papareact.com/gn7'
+          imgUrl='https://c4.wallpaperflare.com/wallpaper/39/1005/99/sushi-rolls-sushi-food-wallpaper-preview.jpg'
           title='Yo!Susi'
           rating={4.8}
           address='Austin USA'
@@ -33,7 +33,7 @@ const FeaturedRow = ({ title, description, id }) => {
         ></ResturantCard>
         <ResturantCard
           id={123}
-          imgUrl='https://links.papareact.com/gn7'
+          imgUrl='https://c4.wallpaperflare.com/wallpaper/39/1005/99/sushi-rolls-sushi-food-wallpaper-preview.jpg'
           title='Yo!Susi'
           rating={4.8}
           address='Austin USA'
@@ -45,7 +45,7 @@ const FeaturedRow = ({ title, description, id }) => {
         ></ResturantCard>
         <ResturantCard
           id={123}
-          imgUrl='https://links.papareact.com/gn7'
+          imgUrl='https://c4.wallpaperflare.com/wallpaper/39/1005/99/sushi-rolls-sushi-food-wallpaper-preview.jpg'
           title='Yo!Susi'
           rating={4.8}
           address='Austin USA'
@@ -57,7 +57,7 @@ const FeaturedRow = ({ title, description, id }) => {
         ></ResturantCard>
         <ResturantCard
           id={123}
-          imgUrl='https://links.papareact.com/gn7'
+          imgUrl='https://c4.wallpaperflare.com/wallpaper/39/1005/99/sushi-rolls-sushi-food-wallpaper-preview.jpg'
           title='Yo!Susi'
           rating={4.8}
           address='Austin USA'
